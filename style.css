@@ -1,0 +1,70 @@
+body 
+{
+    background-color: mistyrose;
+    color: #2a4c0d;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+} 
+h1
+{
+    color: #22390e;
+    text-align: center;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h2
+{
+    color: #305213;
+    text-align: center;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h3
+{
+    color: #305213;
+    text-align: center;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+select
+{
+    color: #797a78;
+    font-family: Helvetica, sans-serif;
+}
+div
+{
+    background-color: #ffffff;
+}
+#reviewtable
+{
+    border: 1px solid #2a4c0d;
+    border-collapse: collapse;
+    width: 100%;
+}
+#reviewtable th
+{
+    border: 1px solid #2a4c0d;
+    padding: 8px;
+    text-align: left;
+    background-color: #4a6148;
+    color: white;
+}
+#reviewtable td
+{
+    border: 1px solid #2a4c0d;
+    padding: 8px;
+}
+#reviewtable tr:nth-child(even)
+{
+    background-color: #f2f2f2;
+}
+.form-container
+{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+}
+.header
+{
+    background-color: white;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
